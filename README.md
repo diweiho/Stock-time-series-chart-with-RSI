@@ -1,8 +1,10 @@
 # Interactive historical price data plot with RSI indicator
  
 An interactive price chart with RSI done as part of a data visualization assignment.
-Plot is done using plotly, and might not show up on github. Download it and have a go!
+Plot is done using plotly, and will not show up on github but it can be viewed using NBviewer.*
+Download it and have a go!
 
+\* Viewing using NBviewer can be done by clicking on the top right icon (circle with a horizontal line across) on the notebook when it loads in github.
 
 ## Functions:
 1. Retrieve historical price data from 2000-01-03 to current date at 1 day intervals for up to 10 companies.
