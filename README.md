@@ -4,7 +4,7 @@ An interactive price chart with RSI done as part of a data visualization assignm
 Plot is done using plotly, and will not show up on github but it can be viewed using NBviewer.*
 Download it and have a go!
 
-\* Viewing using NBviewer can be done by clicking on the top right icon (circle with a horizontal line across) on the notebook when it loads in github.
+\* Viewing using NBviewer can be done by clicking on the top right icon (circle with a horizontal line across) on the notebook after it loads in github. Or you can access it via [this link](https://nbviewer.jupyter.org/github/diweiho/Stock-time-series-chart-with-RSI/blob/52c5650a9071379ab2bbcc34cee3d9359f8aa833/Price_chart_RSI.ipynb).
 
 ## Functions:
 1. Retrieve historical price data from 2000-01-03 to current date at 1 day intervals for up to 10 companies.
